@@ -11,7 +11,7 @@ namespace DemoGit
         static void Main(string[] args)
         {
             // Ceci est un commentaire
-            System.Console.WriteLine("Hello, World!");
+            System.Console.WriteLine("Bonjour Maxime!");
         }
     }
 }
